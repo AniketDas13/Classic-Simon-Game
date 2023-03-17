@@ -1,5 +1,6 @@
 # Classic-Simon-Game
-A fun website that imitates the Classic Simon Game, made using HTML, CSS, JS &amp; jQuery.
+A fun website that imitates the Classic Simon Game, made using HTML, CSS, JS &amp; jQuery
+------------------------------------------------------------------------------------------
 
 The Rules are simple:
 Start the game by pressing any key on the keyboard.
